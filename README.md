@@ -67,15 +67,9 @@ iSmart AI solves this by:
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here)
-
----
-
 ## 🚀 Live Demo
 
-(Add your GitHub Pages link here)
+https://uday-kiran-9.github.io/ismart-ai/
 
 ---
 
